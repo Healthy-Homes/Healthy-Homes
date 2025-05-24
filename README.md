@@ -1,11 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I’m Matt
 
-<!--
-**Healthy-Homes/Healthy-Homes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a ceramic artist and public health professional currently conducting Fulbright research in Taiwan.
 
-Here are some ideas to get you started:
+## 🔬 Current Work
+- Researching community-driven healthy housing
+- Interviewing public health experts across Taiwan
+- Blogging about fieldwork and food
 
-- 🔭 I’m currently working on ...
+## 🏺 Art + Design
+- I create 3D-printed and cast ceramic tiles for signage and expression
+- Explore my work: https://fancydutch.org
+
+
+---
+
+📫 Reach me: matthew.ulsh@fulbrightmail.org
+
+---
+
+📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
+urrently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
